@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AparajitPandit
-- 👀 I’m interested in making money
+- 👀 I’m interested in data analytics and data science
 - 🌱 I’m currently learning electrical engineering 
 - 💞️ I’m looking to collaborate on AI and ML projects
 - 📫 How to reach me mail me on aparajitpandit@gmail.com 
